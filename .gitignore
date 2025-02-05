@@ -1,0 +1,10 @@
+# Ignorar pasta .vs (arquivos do Visual Studio)
+.vs/
+
+# Ignorar arquivos binários e de build
+bin/
+obj/
+
+# Ignorar configurações de sistema
+.vscode/
+.idea/
